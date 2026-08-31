@@ -1,0 +1,4 @@
+Hola, mando datos al archivo 
+six seven  
+farmeando aura 
+hola esta data es del teclado de mi pc
